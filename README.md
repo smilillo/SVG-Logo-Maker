@@ -23,10 +23,10 @@ To begin, clone the repository on to local. Once project is cloned, the user wil
 https://github.com/smilillo/SVG-Logo-Maker
 
 ### Video Walkthrough Link:
-[Link to video on Google Drive]()
+[Link to video on Google Drive](https://drive.google.com/file/d/121LtZBYXHR--s9Bx4PYkvV_dgjIciNrc/view?usp=sharing)
 
 ## Tests
- 
+Test are run via jest. To run the tests, enter npm test in the command line. All tests currently passing.
 
 ## Contributing
 N/A 
